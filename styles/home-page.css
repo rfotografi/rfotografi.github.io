@@ -1,0 +1,1332 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.home-page-dg2 {
+  width: 100%;
+  height: 1278rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #000000;
+}
+.home-page-dg2 .navbar-logo-left-kke {
+  box-sizing: border-box;
+  padding: 4.55rem 5.25rem 4.85rem 5.25rem;
+  width: 151.2rem;
+  height: 17.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW {
+  box-sizing: border-box;
+  padding: 0.9rem 0rem 0.9rem 1.2rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-uGA {
+  margin: 1.5rem 61.4rem 1.5rem 0rem;
+  height: calc(100% - 3rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-uGA .home-14J {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-uGA .contact-izJ {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-uGA .about-s6W {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-uGA .backup-file-zwp {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-KUJ {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-KUJ .facebook-1-4gn {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-KUJ .instagram-1-Pyx {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-KUJ .whatsapp-1-WYn {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .navbar-logo-left-kke .navbar-content-pkW .navbar-menu-KUJ .google-drive-1-ppN {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr {
+  width: 151.6rem;
+  height: 442.9rem;
+  position: absolute;
+  left: 0;
+  top: 17.2rem;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .content-home-GgN {
+  box-sizing: border-box;
+  padding: 17.85rem 3.5rem 13.2rem 3.5rem;
+  width: 151.2rem;
+  height: 94.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-size: 148.876% 158.487%;
+  background-position: -0rem -23.1937rem;
+  background-image: url('../assets/content-home-bg.png');
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .content-home-GgN .column-z6a {
+  width: 93.3rem;
+  height: 100%;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .content-home-GgN .column-z6a .rfotografi-8yU {
+  margin-bottom: 7.6rem;
+  font-size: 18rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .content-home-GgN .column-z6a .deskripsi-open-FYJ {
+  margin-bottom: 6.95rem;
+  max-width: 93.3rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .content-home-GgN .column-z6a .button-Nsp {
+  margin-left: 2rem;
+  width: 26.2rem;
+  height: 7.7rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3999999364;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.4rem #fbd784;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.1199999973);
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .content-home-GgN .content-home-GgN-bg {
+  width: 151.2rem;
+  height: 94.7rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:7d624dd641327102fd62d24da2ea89eef63198f3');
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .bg-content-JQ6 {
+  width: 151.2rem;
+  height: 29.4rem;
+  position: absolute;
+  left: 0;
+  top: 72.9rem;
+  background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #000000 61.04%);
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn {
+  box-sizing: border-box;
+  padding: 15.2rem 11.591rem 38.3rem 13.8rem;
+  width: 151rem;
+  height: 348.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 94.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .portfolio-7MY {
+  margin: 0rem 4.509rem 7.1rem 0rem;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY {
+  width: 100%;
+  height: 275rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-d1rn-yuY {
+  margin-right: 10.1912rem;
+  width: 57.7088rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-d1rn-yuY .auto-group-3kpn-is8 {
+  margin: 0rem 0.009rem 8.4rem 0rem;
+  width: calc(100% - 0.0088rem);
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-d1rn-yuY .auto-group-3kpn-is8 .rectangle-7-TZp {
+  width: 57.7rem;
+  height: 93.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-d1rn-yuY .rectangle-4-maW {
+  margin-bottom: 9.3662rem;
+  width: 57.7088rem;
+  height: 81.8338rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-d1rn-yuY .rectangle-5-fvn {
+  margin-right: 0.0088rem;
+  width: 57.7rem;
+  height: 81.8rem;
+  position: relative;
+  background-size: 100% 105.807%;
+  background-position: 0 -0.5595rem;
+  background-image: url('../assets/rectangle-5.png');
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-xgt8-83g {
+  width: 57.7088rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-xgt8-83g .rectangle-2-4i2 {
+  width: 57.7088rem;
+  height: 62.4705rem;
+  position: relative;
+  background-size: 100% 115.472%;
+  background-position: -0.3631rem -3.3803rem;
+  background-image: url('../assets/rectangle-2.png');
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-xgt8-83g .auto-group-panj-NTp {
+  box-sizing: border-box;
+  padding-top: 7.8295rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-xgt8-83g .auto-group-panj-NTp .auto-group-vedk-Ktr {
+  margin: 0rem 0.009rem 7.9rem 0rem;
+  box-sizing: border-box;
+  padding: 2.8rem 0rem 2.7rem 0rem;
+  width: calc(100% - 0.0088rem);
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-xgt8-83g .auto-group-panj-NTp .auto-group-vedk-Ktr .rectangle-7-qcJ {
+  width: 57.7rem;
+  height: 93.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-dg2 .auto-group-mmnv-9Lr .fortofolio-cQn .auto-group-5uyr-qHY .auto-group-xgt8-83g .auto-group-panj-NTp .rectangle-3-aJz {
+  margin-right: 0.0088rem;
+  width: 57.7rem;
+  height: 97.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .capture-your-inportant-moment-Hz6 {
+  width: 87.3rem;
+  height: 8rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 466.8rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-dg2 .kami-menyediakan-beberapa-jasa-foto-mau-itu-untuk-keperluan-acara-resmi-keluarga-acara-resmi-pribadi-atau-acara-resmi-sekolah-untuk-harga-kita-bisa-sesuaikan-dengan-budget-client-karena-kita-disini-ingin-membantu-client-agar-acaranya-bisa-berjalan-dengan-lancar-ada-beberapa-jasa-foto-yang-kita-layani-antara-lain-yaitu--xaS {
+  width: 118.7rem;
+  height: 28.8rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 486.3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv {
+  box-sizing: border-box;
+  padding: 34.1rem 11.6rem 17.8rem 12.2rem;
+  width: 151.2rem;
+  height: 567.4rem;
+  position: absolute;
+  left: 0;
+  top: 515.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi {
+  margin: 0rem 0.6rem 14.8rem 0rem;
+  width: 126.8rem;
+  height: 70.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG {
+  box-sizing: border-box;
+  padding-top: 11.845rem;
+  width: 100%;
+  height: 82.145rem;
+  display: flex;
+  align-items: flex-end;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .content-cgv {
+  margin: 8.1rem 15.9rem 8.6rem 0rem;
+  width: 61.4rem;
+  height: calc(100% - 16.7rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .content-cgv .tagline-LN2 {
+  margin: 0rem 36.5rem 3.5rem 0rem;
+  width: calc(100% - 36.5rem);
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .content-cgv .tagline-LN2 .line-Dgi {
+  margin: 0rem 2.4rem 0.2rem 0rem;
+  width: 7.2rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .content-cgv .tagline-LN2 .rfotografi-Kjk {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .content-cgv .wedding-photography-dVY {
+  margin-bottom: 2.8rem;
+  max-width: 34.6rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Bodoni MT, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .content-cgv .pernikahan-adalah-momen-yang-berharga-dan-tak-terlupakan-dalam-hidup-seseorang-untuk-membuat-momen-momen-tersebut-dikenang-sepanjang-masa-penggunaan-jasa-fotografi-sangatlah-penting-dengan-menggunakan-jasa-fotografi-profesional-kami-akan-hadir-untuk-mengabadikan-setiap-momen-penting-dan-emosional-dalam-kualitas-yang-tak-terlupakan-MAe {
+  margin-bottom: 7.8rem;
+  max-width: 61.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .content-cgv .button-9MQ {
+  width: 11.5rem;
+  height: 5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3999999364;
+  color: #fbd784;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fbd784;
+  box-sizing: border-box;
+  background-color: #000000;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .image-wrapper-3Bt {
+  box-sizing: border-box;
+  padding: 0.1rem 0;
+  width: 49.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg.png');
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-wedding-BLi .container-goG .image-wrapper-3Bt .image-YuL {
+  width: 49rem;
+  height: 70.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q {
+  margin: 0rem 0.6rem 25.9rem 0rem;
+  width: 126.8rem;
+  height: 70.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY {
+  width: 123.8rem;
+  height: 70.495rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY .image-iBY {
+  margin-right: 11.6rem;
+  width: 49rem;
+  height: 70.495rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY .content-FSN {
+  margin: 8.298rem 0rem 13.098rem 0rem;
+  width: 63.2rem;
+  height: calc(100% - 21.395rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY .content-FSN .tagline-x5t {
+  margin: 0rem 38.3rem 3.5rem 0rem;
+  width: calc(100% - 38.3rem);
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY .content-FSN .tagline-x5t .line-Upv {
+  margin: 0rem 2.4rem 0.2rem 0rem;
+  width: 7.2rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY .content-FSN .tagline-x5t .rfotografi-ocJ {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY .content-FSN .prewedding-photography-Vzv {
+  margin-bottom: 2.8rem;
+  max-width: 34.6rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Bodoni MT, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY .content-FSN .menggunakan-jasa-fotografi-profesional-pada-prewedding-singkat-akan-memberikan-kalian-hasil-foto-yang-tampak-alami-dan-menawan-kami-akan-membantu-mengatur-tempat-pencahayaan-dan-sudut-pengambilan-gambar-yang-terbaik-untuk-memastikan-foto-foto-kalian-terlihat-luar-biasa-PaW {
+  margin-bottom: 6.5rem;
+  max-width: 63.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .conten-prewedding-35Q .container-ZZY .content-FSN .button-CXx {
+  width: 15rem;
+  height: 5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3999999364;
+  color: #fbd784;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fbd784;
+  box-sizing: border-box;
+  background-color: #000000;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE {
+  margin: 0rem 0.6rem 19.1rem 0rem;
+  width: 126.8rem;
+  height: 70.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG {
+  box-sizing: border-box;
+  padding-top: 0.295rem;
+  width: 100%;
+  height: 70.595rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG .content-YES {
+  margin: 8.1rem 14.1rem 13.1rem 0rem;
+  width: 63.2rem;
+  height: calc(100% - 21.2rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG .content-YES .tagline-rkv {
+  margin: 0rem 38.3rem 3.5rem 0rem;
+  width: calc(100% - 38.3rem);
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG .content-YES .tagline-rkv .line-BoC {
+  margin: 0rem 2.4rem 0.2rem 0rem;
+  width: 7.2rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG .content-YES .tagline-rkv .rfotografi-Waa {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG .content-YES .engagement-photography-SUE {
+  margin-bottom: 2.8rem;
+  max-width: 34.6rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Bodoni MT, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG .content-YES .momen-tunangan-adalah-salah-satu-momen-paling-berharga-dalam-kehidupan-anda-mengapa-tidak-mengabadikannya-dengan-indah-dan-profesional-dengan-menggunakan-jasa-fotografer-kami-anda-dapat-memastikan-bahwa-setiap-momen-spesial-dan-kebahagiaan-anda-terjaga-dengan-sempurna-mFc {
+  margin-bottom: 6.5rem;
+  max-width: 63.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG .content-YES .button-Cbp {
+  width: 15rem;
+  height: 5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3999999364;
+  color: #fbd784;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fbd784;
+  box-sizing: border-box;
+  background-color: #000000;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-engagement-gCE .container-CwG .image-J94 {
+  width: 49.5rem;
+  height: 70.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt {
+  margin: 0rem 0rem 19.1rem 0.6rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0;
+  width: 126.8rem;
+  height: 70.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv {
+  box-sizing: border-box;
+  padding-top: 0.1025rem;
+  width: 123.8rem;
+  height: 69.9975rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv .image-5Z8 {
+  margin-right: 11.6rem;
+  width: 49rem;
+  height: 69.895rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv .content-RN6 {
+  margin: 7.998rem 0rem 12.797rem 0rem;
+  width: 63.2rem;
+  height: calc(100% - 20.795rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv .content-RN6 .tagline-wrE {
+  margin: 0rem 38.3rem 3.5rem 0rem;
+  width: calc(100% - 38.3rem);
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv .content-RN6 .tagline-wrE .line-VMx {
+  margin: 0rem 2.4rem 0.2rem 0rem;
+  width: 7.2rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv .content-RN6 .tagline-wrE .rfotografi-E4e {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv .content-RN6 .free-event-photography-Mf4 {
+  margin-bottom: 2.8rem;
+  max-width: 34.6rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Bodoni MT, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv .content-RN6 .moment-indah-kamu-seperti-hari-ulang-tahun-kelulusan-sekolah-wisuda-atau-moment-lainnya-tidak-akan-terjadi-dua-kali-dalam-waktu-dekat-dengan-itu-sangat-sayang-jika-tidak-di-abadikan-dalam-sebuah-foto-untuk-menyimpan-moment-penting-itu--Hoc {
+  margin-bottom: 6.5rem;
+  max-width: 63.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-free-event-qPt .container-wSv .content-RN6 .button-Xxr {
+  width: 15rem;
+  height: 5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3999999364;
+  color: #fbd784;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fbd784;
+  box-sizing: border-box;
+  background-color: #000000;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 {
+  margin: 0rem 0.6rem 14.8rem 0rem;
+  width: 126.8rem;
+  height: 70.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU {
+  box-sizing: border-box;
+  padding: 0.295rem 0.5rem 0rem 0rem;
+  width: 100%;
+  height: 70.595rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU .content-fSn {
+  margin: 8.1rem 14.5rem 13.1rem 0rem;
+  width: 62.8rem;
+  height: calc(100% - 21.2rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU .content-fSn .tagline-Bg2 {
+  margin: 0rem 37.9rem 3.5rem 0rem;
+  width: calc(100% - 37.9rem);
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU .content-fSn .tagline-Bg2 .line-vdc {
+  margin: 0rem 2.4rem 0.2rem 0rem;
+  width: 7.2rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU .content-fSn .tagline-Bg2 .rfotografi-TtS {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU .content-fSn .modeling-photography-BpS {
+  margin-bottom: 2.8rem;
+  max-width: 34.6rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Bodoni MT, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU .content-fSn .mengabadikan-secara-personal-secara-personal-untuk-kepentingan-media-sosial-dia-sendiri-atau-untuk-keperluan-bisnis-dan-juga-bisa-untuk-portofolio-kita--X7c {
+  margin-bottom: 12.9rem;
+  max-width: 62.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU .content-fSn .button-yVQ {
+  width: 15rem;
+  height: 5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3999999364;
+  color: #fbd784;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fbd784;
+  box-sizing: border-box;
+  background-color: #000000;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-modeling-Cp6 .container-XbU .image-san {
+  width: 49rem;
+  height: 70.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp {
+  margin-right: 0.6rem;
+  width: 126.8rem;
+  height: 70.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae {
+  box-sizing: border-box;
+  padding-right: 0.2rem;
+  width: 123.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae .image-VMG {
+  margin-right: 11.6rem;
+  width: 49rem;
+  height: 70.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae .content-diN {
+  margin: 8.2rem 0rem 13rem 0rem;
+  width: 63rem;
+  height: calc(100% - 21.2rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae .content-diN .tagline-MeN {
+  margin: 0rem 38.1rem 3.5rem 0rem;
+  width: calc(100% - 38.1rem);
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae .content-diN .tagline-MeN .line-tuC {
+  margin: 0rem 2.4rem 0.2rem 0rem;
+  width: 7.2rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae .content-diN .tagline-MeN .rfotografi-dbt {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae .content-diN .collaboration-xPG {
+  margin-bottom: 3.1rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Bodoni MT, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae .content-diN .bekerja-sama-untuk-menghasilkan-foto-yang-menarik-dan-kreatif-melalui-kolaborasi-ini-para-fotografer-model-make-up-artis-desain-grafis-atau-yang-terkait-lainnya-bekerja-sama-untuk-menghasilkan-sesuatu-yang-di-inginkan-seperti-mempromosikan-merek-produk-content-media-sosial-atau-untuk-keperluan-lainnya-JCE {
+  margin-bottom: 14.2rem;
+  max-width: 63rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-page-dg2 .auto-group-opun-JGv .content-collaboration-QKp .container-wae .content-diN .button-hVG {
+  width: 15rem;
+  height: 5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3999999364;
+  color: #fbd784;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fbd784;
+  box-sizing: border-box;
+  background-color: #000000;
+}
+.home-page-dg2 .testimonial-column-light-kyL {
+  box-sizing: border-box;
+  padding: 6.4rem 0rem 4.9rem 16.75rem;
+  width: 209.1rem;
+  height: 52.2rem;
+  position: absolute;
+  left: 0;
+  top: 1082.5rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.home-page-dg2 .testimonial-column-light-kyL .title-3hY {
+  margin: 0rem 72.35rem 4rem 0rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr {
+  width: 254.3rem;
+  height: 29.2rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-gVc {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 35rem;
+  height: 100%;
+  border: solid 0.1rem #e4ebf3;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-gVc .quote-qNW {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-gVc .quote-qNW .text-Pup {
+  margin-bottom: 5.2rem;
+  max-width: 29.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-gVc .quote-qNW .author-JG6 {
+  box-sizing: border-box;
+  padding: 2.4rem 8.8rem 2.4rem 1.6rem;
+  width: 100%;
+  height: 10.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-gVc .quote-qNW .author-JG6 .image-d3U {
+  margin-right: 0.8rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-gVc .quote-qNW .author-JG6 .info-x5k {
+  margin: 0.25rem 0;
+  height: calc(100% - 0.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-gVc .quote-qNW .author-JG6 .info-x5k .author-name-tzz {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-gVc .quote-qNW .author-JG6 .info-x5k .vp-of-company-dSn {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-88e {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 35rem;
+  height: 100%;
+  border: solid 0.1rem #e4ebf3;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-88e .quote-sc2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-88e .quote-sc2 .text-2zi {
+  margin-bottom: 5.2rem;
+  max-width: 29.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-88e .quote-sc2 .author-Ab8 {
+  box-sizing: border-box;
+  padding: 2.4rem 8.8rem 2.4rem 1.6rem;
+  width: 100%;
+  height: 10.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-88e .quote-sc2 .author-Ab8 .image-VdQ {
+  margin-right: 0.8rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-88e .quote-sc2 .author-Ab8 .info-djc {
+  margin: 0.25rem 0;
+  height: calc(100% - 0.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-88e .quote-sc2 .author-Ab8 .info-djc .author-name-bRY {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-88e .quote-sc2 .author-Ab8 .info-djc .vp-of-company-YLn {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-fRQ {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 35rem;
+  height: 100%;
+  border: solid 0.1rem #e4ebf3;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-fRQ .quote-cbY {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-fRQ .quote-cbY .text-aYN {
+  margin-bottom: 5.2rem;
+  max-width: 29.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-fRQ .quote-cbY .author-7oC {
+  box-sizing: border-box;
+  padding: 2.4rem 8.8rem 2.4rem 1.6rem;
+  width: 100%;
+  height: 10.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-fRQ .quote-cbY .author-7oC .image-FuQ {
+  margin-right: 0.8rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-fRQ .quote-cbY .author-7oC .info-oAE {
+  margin: 0.25rem 0;
+  height: calc(100% - 0.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-fRQ .quote-cbY .author-7oC .info-oAE .author-name-Z9Q {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-fRQ .quote-cbY .author-7oC .info-oAE .vp-of-company-VYr {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-CiA {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 35rem;
+  height: 100%;
+  border: solid 0.1rem #e4ebf3;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-CiA .quote-xhL {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-CiA .quote-xhL .text-vu4 {
+  margin-bottom: 5.2rem;
+  max-width: 29.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-CiA .quote-xhL .author-51G {
+  box-sizing: border-box;
+  padding: 2.4rem 8.8rem 2.4rem 1.6rem;
+  width: 100%;
+  height: 10.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-CiA .quote-xhL .author-51G .image-oxr {
+  margin-right: 0.8rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-CiA .quote-xhL .author-51G .info-MUa {
+  margin: 0.25rem 0;
+  height: calc(100% - 0.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-CiA .quote-xhL .author-51G .info-MUa .author-name-7Cr {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-CiA .quote-xhL .author-51G .info-MUa .vp-of-company-rRL {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-Zae {
+  box-sizing: border-box;
+  padding: 2.4rem 0rem 2.4rem 2.4rem;
+  width: 101.5rem;
+  height: 100%;
+  border: solid 0.1rem #e4ebf3;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-Zae .quote-Jo8 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-Zae .quote-Jo8 .text-g9U {
+  margin-bottom: 11.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-Zae .quote-Jo8 .author-KTL {
+  margin-right: 68.9rem;
+  box-sizing: border-box;
+  padding: 2.4rem 8.8rem 2.4rem 1.6rem;
+  width: calc(100% - 68.9rem);
+  height: 10.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-Zae .quote-Jo8 .author-KTL .image-2sY {
+  margin-right: 0.8rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-Zae .quote-Jo8 .author-KTL .info-Z6n {
+  margin: 0.25rem 0;
+  height: calc(100% - 0.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-Zae .quote-Jo8 .author-KTL .info-Z6n .author-name-WXp {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .testimonial-column-light-kyL .columns-krr .content-Zae .quote-Jo8 .author-KTL .info-Z6n .vp-of-company-FkJ {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .company-k4n {
+  width: 16.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 67.3rem;
+  top: 1256.5rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-dg2 .auto-group-kaqe-SiJ {
+  width: 42.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 55.7rem;
+  top: 1262.2rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-dg2 .auto-group-kaqe-SiJ .privacy-policy-xwY {
+  margin-right: 5.6rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-dg2 .auto-group-kaqe-SiJ .terms-and-conditions-GBY {
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
